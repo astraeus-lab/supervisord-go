@@ -1,2 +1,4 @@
-# supervisord-go
-Re-implements supervisord in golang
+
+# Supervisord-go
+
+Re-implements supervisord in golang.
